@@ -1,0 +1,4 @@
+#!usr/bin/env bash
+
+echo "Bienvenido a GitHub, este es tu primer programa"
+echo "Sigue practicando para hacerte todo un crack utilizando GitHub"
